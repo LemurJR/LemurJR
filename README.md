@@ -1,10 +1,10 @@
-# 👋 Hey There!
+# 👋 Hey There, I'm Lemur
 
-# 📖 About Me
-🚹 - My name is Lemur  
-🔞 - I am 15 years old  
-🍁 - I am from Canada "EH"  
-🎤 - I stream on [Twitch](https://www.twitch.tv/a_lemurr)
+# Hi! My name is Lemur and I am a new developer from Canada EH 🍁
+
+🎤 - I stream on [Twitch](https://www.twitch.tv/a_lemurr)  
+🐍 - Currently learning **Python**
+
 
 
 
