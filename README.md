@@ -1,6 +1,6 @@
 # 👋 Hey There, I'm Lemur
 
-# Hi! My name is Lemur and I am a new developer from Canada EH 🍁
+# My name is Lemur and I am a new developer from Canada EH 🍁
 
 🎤 - I stream on [Twitch](https://www.twitch.tv/a_lemurr)  
 🐍 - Currently learning **Python**
