@@ -4,7 +4,7 @@
 
 🐍 - Currently learning **Python**  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>    
 🎤 - I stream on [Twitch](https://www.twitch.tv/a_lemurr)  
-😎 - I am kinda cool ngl  
+😎 - I am a support agent for [LYHMEHosting](https://lyhme.io)  
 🦃 - Join my [Discord](https://discord.com/invite/ZhSmjpr)  
 
 
